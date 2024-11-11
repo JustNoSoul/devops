@@ -1,3 +1,3 @@
 from numss import plus
-if name == 'main':
+if __name__ == '__main__':
     print(plus(8,4))
